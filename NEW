@@ -1,0 +1,7 @@
+echo "# CODE" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/a122sdsfg124f123/CODE.git
+git push -u origin main
